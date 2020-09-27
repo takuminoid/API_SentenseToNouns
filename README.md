@@ -1,5 +1,5 @@
 # API_SentenseToNouns
-pythonにて文章を名詞のみに分割するAPIをFlask実装してみました．
+pythonにて文章を名詞のみに分割するAPIをFlaskで実装してみました．
 
 現在はローカルのみ実装済みです．
 
